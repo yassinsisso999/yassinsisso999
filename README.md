@@ -1,11 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
 
 <details>
-<p><strong> <summary> Busy coding & learning new things : </summary> </strong></p>
+<p><strong><summary>Busy coding & learning new things :</summary></strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
 
@@ -16,17 +16,17 @@
 
 </div>
 
-<hr></hr>
+<hr>
 
-## 🚀 About Me
+## 🚀 About Me | نبذة عني
 
 👋 Hi, I'm **Yacine**  
 💻 Junior Backend Developer  
 🐍 Python enthusiast  
 ⚙️ Automation & API developer  
-🌐 Interested in Web Scraping & Web Systems  
-🤖 Exploring GenAI & AI-assisted coding  
-📚 Always learning & building projects
+🌐 Web scraping & backend systems  
+🤖 GenAI & AI tools explorer  
+📚 Always learning, always building
 
 ---
 
@@ -49,15 +49,10 @@
 ```python
 class Yacine:
     def __init__(self):
-        self.role = "Junior Backend Developer"
         self.username = "yassinsisso999"
-        self.languages = ["Python", "JavaScript"]
-        self.focus = ["Automation", "APIs", "Web Scraping", "GenAI", "Backend Systems"]
+        self.role = "Junior Backend Developer"
+        self.stack = ["Python", "JavaScript"]
+        self.focus = ["APIs", "Automation", "Web Scraping", "GenAI"]
 
-    def goals(self):
-        return [
-            "Build scalable backend systems",
-            "Master automation workflows",
-            "Work with AI APIs",
-            "Improve system design skills"
-        ]
+    def mission(self):
+        return "Build smart backend systems"
